@@ -1,0 +1,11 @@
+i {
+  color: red;
+}
+div.group{
+  margin: 10px;
+  background: rgb(230, 230, 230);
+}
+table tbody tr.a{
+  background: rgb(0, 0, 0); 
+  color: white;
+}
